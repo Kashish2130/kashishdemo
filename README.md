@@ -1,3 +1,3 @@
 # kashishdemo
 This is my first git repository.<br>
-Author - Kashish Jain
+Author - Kashish Jain (DAIICT)
